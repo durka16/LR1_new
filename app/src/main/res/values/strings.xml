@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LR1</string>
+    <string name="signal_generator">Генератор сигнала</string>
+    <string name="amplitude">Амплитуда:</string>
+    <string name="signal_chart_title">График сигнала</string>
+    <string name="signal_params"></string>
+    <string name="signal_image_description">Изображение сигнала</string>
+</resources>
